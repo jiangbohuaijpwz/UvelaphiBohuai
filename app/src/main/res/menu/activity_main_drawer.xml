@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:title="Home" />
+        <item
+            android:id="@+id/nav_ndebele"
+            android:title="Ndebele" />
+        <item
+            android:id="@+id/nav_pedi"
+            android:title="Pedi" />
+        <item
+            android:id="@+id/nav_sotho"
+            android:title="Sotho" />
+
+        <item
+            android:id="@+id/nav_swati"
+            android:title="Swati" />
+
+        <item
+            android:id="@+id/nav_tsonga"
+            android:title="Tsonga" />
+
+        <item
+            android:id="@+id/nav_tswana"
+            android:title="Tswana" />
+
+        <item
+            android:id="@+id/nav_venda"
+            android:title="Venda" />
+
+        <item
+            android:id="@+id/nav_xhosa"
+            android:title="Xhosa" />
+
+        <item
+            android:id="@+id/nav_zulu"
+            android:title="Zulu" />
+    </group>
+
+
+</menu>

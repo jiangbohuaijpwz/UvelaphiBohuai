@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Uvelaphi</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="summary">summarize the history of the tribe featured.</string>
+    <string-array name="clans_array">
+        <item>Abathembu</item>
+        <item>AmaXhosa</item>
+        <item>AbeSuthu</item>
+        <item>AmaMpondo</item>
+        <item>AmaMpondomise</item>
+        <item>AmaBhaca</item>
+        <item>AmaHlubi</item>
+        <item>AmaRharhabe</item>
+        <item>AmaGqunukhwebe</item>
+    </string-array>
+    <string name="zuluSummary">uZulu was formed as a result of an east coast migration of a small group of the then Nguni tribe. They settled in the east coast of Africa around the nineteenth century.\n\nAround 1816 king Shaka kaSenzangakhona united Zulu tribes and other smaller tribes into a powerful kingdom which went on to win the Battle of Isandlwane in 1879 under the leadership of king Cetshwayo.\n\nIn this modern age, Zulus are predominantly found in the province of KwaZulu Natal, South Africa with a minority group in the rest of the SADC region. Today Zulu accounts for around 11 million people majority in South Africa with smaller groups in Zambia, Zimbabwe and Mozambique.</string>
+    <string name="swatiSummary">emaSwati or bakaNgwane are part of the Nguni tribe that emigrated from  North East Africa. They settled in what is now known as Swaziland in South East of Africa around the fifteenth century.\n\nAround 1600 bakaNgwane settled in Swaziland under the leadership of Dlamini (III), who were accompanied by other clans, and took over from then king Maseko. During the Mfecane wars king Sobhuza (I) united some small Sotho and Nguni tribes into a powerful kingdom which would be later known as Swaziland and was fully under the rule of Dlamini kings.\n\nIn this modern age, emaSwati are predominantly found in Swaziland, neighboring Mpumalanga province of South Africa and a minority group in the rest of the SADC region. Today emaSwati accounts for around 3 million people majority in Swaziland and South Africa.</string>
+    <string name="xhosaSummary">Igama elithi “AmaXhosa kulemihla siphila kuyo lisetyenziswa ukuquka uninzi lwezizwe, uninzi lwazo oluseMpuma Koloni kodwa zibe zikhona nakwamanye amaphondo. Isizwe ngasinye sinenkosi yaso. Nazi iziduko zesizwe samaXhosa ngokolwazi lwethu.</string>
+    <string name="pediSummary">Bapedi, Marota, Bamaroteng, Basotho and previously also referred to as Northern Sotho can be traced as early as the 18th century. Through migration they settled north of the Vaal River to what is now known as the Limpopo, Gauteng, Mpumalanga and North West provinces of South Africa. They formed what is known as dikgoro (extended family clusters) and distinguished themselves as tau (lion), kwena (crocodile) and others which is a symbolic allegiance to that totemic animal.\n\nThe Maroteng who were descendants of Tswana speaking Kgatla developed into a powerful Pedi paramountcy through generations, linguistic, and cultural homogeneity between the 16th century and the 18th century. Thulare was paramount chief in the early 18th century and was succeeded by Sekwati who notably battled with Mzilikazi during the Matabele wars. Sekhukhuneland is named after Sekwati’s son, Sekhukhune I.\n\nIn this modern age, Bapedi are predominantly found in northern parts of South Africa and a minority group in the rest of the SADC region. They account for close to 5 million people majority in South Africa with minority groups in Zimbabwe and Botswana.</string>
+    <string name="vendaSummary">Venda people are South Africans living mostly near the South African and Zimbabwean borders. Venda people are one of the minority groups in South Africa currently with just over 700 000 speakers in Limpopo.\n\nIn 1962 the then South African government created Venda as a homeland for Venda speaking people. The story the government sold for creating the homelands was that black people can govern themselves where as in reality the aim was to deny them any opportunity to participate in South African politics.\n\nIn 1991 Venda applied to become part of South Africa and in 1994 all homelands policies were dissolved and all homelands in the country became part of South Africa.
+</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="title_activity_home">Uvelaphi</string>
+    <string name="homeAboutUs">Uvelaphi is a mobile app that seeks to connect Nguni people with their roots by increasing knowledge about Nguni clan names. It also seeks to create an intergenerational reservoir of history for the Nguni people.</string>
+    <string name="homeDisclaimer">Disclaimer: \n\nThis app does not seek to impose any tribal cultures on any individuals. It is not intended to cause any tribal segregation but merely inform where there\'s lack of knowledge about the Nguni clan names. The ancestral order of the clan names might differ from region to region. Home is where the heart is.</string>
+
+
+</resources>
